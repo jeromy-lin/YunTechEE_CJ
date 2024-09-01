@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 Chia-Jen Lin received the Ph.D. degree in College of Mechanical and Electrical Engineering from the National Taipei University of Technology, Taipei, Taiwan, in 2024. From 2006 to 2024, he was a Research and Development Manager in TECO Electric and Machinery Company Ltd. He is currently an Assistant Professor with the National Yunlin University of Science and Technology (NYUST), Yunlin, Taiwan.His research interests include AGV control and service robot.
+
+======
 A data-driven personal website
 
 ======
