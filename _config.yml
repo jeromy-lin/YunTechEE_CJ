@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "ROC Taiwan "
-title                    : "電機工程學系 / 國立雲林科技大學"
+title                    : "國立雲林科技大學 / 電機工程學系"
 title_separator          : "-"
 name                     : &name "林家仁"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "林家仁"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "雲林縣斗六市"
+  employer         : "National YunTech"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cjlin@yuntech.edu.tw" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
