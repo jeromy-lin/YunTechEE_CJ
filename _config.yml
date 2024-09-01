@@ -7,12 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "ROC Taiwan "
+title                    : "電機工程學系 / 國立雲林科技大學"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "林家仁"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                     : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jeromy-lin.github.io/YunTechEE_CJ/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
